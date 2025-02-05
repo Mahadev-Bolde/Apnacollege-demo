@@ -1,3 +1,3 @@
-# ABHI-Demo
-This is my first repo
+# Abhi-Demo
+This is my first repo.
 Author - Abhi Bolde
